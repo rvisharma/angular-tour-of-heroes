@@ -2,6 +2,6 @@
 
 ## Topics Completed
 
-[X] Services Completed
+    [X]    Services Completed
 
-HTTP
+    [X]    HTTP
